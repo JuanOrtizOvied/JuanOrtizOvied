@@ -10,6 +10,10 @@ I am a passionate programmer who explores new things every day to be applied in 
 
 I don't have a specific field, I always want to know and be part of a process from start to finish, it is part of the world of STARTUPS to do a little of everything, I have worked in backend, web, mobile, cloud, devops.
 
+> 📫 How to reach me ?
+>
+> **juan.ortiz.oviedo@gmail.com**
+
 ## I'm currently working with:
 
 - Typescript
