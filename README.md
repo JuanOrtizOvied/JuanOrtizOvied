@@ -16,7 +16,7 @@ I don't have a specific field, I always want to know and be part of a process fr
 
 - Typescript
 - Reactjs
-- Nodejs
+- Express
 - Serverless
 - Flutter
 - Python
