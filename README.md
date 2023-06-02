@@ -16,10 +16,10 @@ I don't have a specific field, I always want to know and be part of a process fr
 
 - Typescript
 - Reactjs
-- Express
+- Python 
 - Serverless
 - Flutter
-- Python
+
 
 <h2 align="center">
   Languages and Tools that I know:
