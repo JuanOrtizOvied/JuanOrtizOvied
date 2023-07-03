@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-ortiz-oviedo/)
 
-I love working in startups, creating products from scratch catches my attention, the adrenaline that exists in this ecosystem means that it is always in constant motion (I dislike routine).
+I love working in startups, creating products from scratch catches my attention, the adrenaline that exists in this ecosystem means that it is always in constant motion.
 
 I'm a passionate programmer who explores new things every day to be applied in real problems, the next task after solving a problem is to solve the same problem in a more appropriate and optimal way.
 
