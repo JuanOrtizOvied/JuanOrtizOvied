@@ -55,7 +55,7 @@ I don't have a specific field, I always want to know and be part of a process fr
   </a>  &nbsp;
 </p>
 
-## Dev Stuff:
+## Dev Stuff
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanortizovied&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&count_private=true&theme=blueberry" />
 
