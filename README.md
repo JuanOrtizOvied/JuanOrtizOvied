@@ -18,7 +18,6 @@ I don't have a specific field, I always want to know and be part of a process fr
 - Reactjs
 - Python 
 - Serverless
-- Flutter
 - Aws services
 
 <h2 align="center">
