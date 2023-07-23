@@ -62,4 +62,4 @@ I don't have a specific field, I always want to know and be part of a process fr
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=juanortizovied&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" />
 
-<img alt="juanortizovied's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=juanortizovied&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="juanortizovied's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=juanortizovied&custom_title=Contribution&hide_border=true&theme=tokyo-night" />
