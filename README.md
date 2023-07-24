@@ -2,11 +2,17 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-ortiz-oviedo/)
 
-I love working in startups, creating products from scratch catches my attention, the adrenaline that exists in this ecosystem means that it is always in constant motion.
+Passionate Full Stack Developer | Embracing Startup Culture | Turning Ideas into Reality
 
-I'm a passionate programmer who explores new things every day to be applied in real problems, the next task after solving a problem is to solve the same problem in a more appropriate and optimal way.
+🚀 As a fervent Full Stack Developer, I thrive in the dynamic world of startups, where innovation and creativity take center stage. My love for startups fuels my drive to craft exceptional web solutions, blending frontend magic with powerful backend functionalities.
 
-I don't have a specific field, I always want to know and be part of a process from start to finish, it is part of the world of STARTUPS to do a little of everything, I have worked in backend, web, mobile, cloud, devops.
+💡 I revel in transforming visionary ideas into tangible products, contributing to the growth and success of early-stage ventures. My expertise spans a wide range of technologies, from JavaScript frameworks like React and Vue.js to backend mastery with Node.js, Express, and more.
+
+🔧 Leveraging my versatile skill set, I excel in building scalable applications, optimizing performance, and ensuring seamless user experiences. My passion for problem-solving pushes me to explore cutting-edge tools and continuously improve my craft.
+
+🌟 Collaborative by nature, I thrive in the fast-paced startup environment, fostering teamwork, and encouraging a culture of innovation. My dedication to communication ensures a shared vision and alignment across teams, from development to stakeholders.
+
+Joining forces with startups, I embark on a thrilling journey to shape the future, crafting solutions that make a meaningful impact. Let's connect and together, create something extraordinary! 🤝✨
 
 > 📫 How to reach me ?
 >
