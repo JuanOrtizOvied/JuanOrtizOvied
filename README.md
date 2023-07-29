@@ -6,7 +6,7 @@ Passionate Full Stack Developer | Embracing Startup Culture | Turning Ideas into
 
 🚀 As a fervent Full Stack Developer, I thrive in the dynamic world of startups, where innovation and creativity take center stage. My love for startups fuels my drive to craft exceptional web solutions, blending frontend magic with powerful backend functionalities.
 
-💡 I revel in transforming visionary ideas into tangible products, contributing to the growth and success of early-stage ventures. My expertise spans a wide range of technologies, from JavaScript frameworks like React to backend mastery with Node.js, Express, python, Flask and more.
+💡 I revel in transforming visionary ideas into tangible products, contributing to the growth and success of early-stage ventures. My expertise spans a wide range of technologies, from JavaScript frameworks like React to backend mastery with Node.js with Express, python with Flask.
 
 🔧 Leveraging my versatile skill set, I excel in building scalable applications, optimizing performance, and ensuring seamless user experiences. My passion for problem-solving pushes me to explore cutting-edge tools and continuously improve my craft.
 
