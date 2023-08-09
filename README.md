@@ -26,7 +26,7 @@ Exploring generative AI...
 - Reactjs
 - Python 
 - Serverless
-- Aws services
+- Aws Services
 
 <h2 align="center">
   Languages and Tools that I know:
