@@ -12,7 +12,7 @@ Passionate Full Stack Developer | Embracing Startup Culture | Turning Ideas into
 
 🌟 Collaborative by nature, I thrive in the fast-paced startup environment, fostering teamwork, and encouraging a culture of innovation. My dedication to communication ensures a shared vision and alignment across teams, from development to stakeholders.
 
-Joining forces with startups, I embark on a thrilling journey to shape the future, crafting solutions that make a meaningful impact. Let's connect and together, create something extraordinary! 🤝✨
+Joining forces with startups, I embark on a thrilling journey to shape the future, crafting solutions that make a meaningful impact. Let's connect and together, create something extraordinary!
 
 Exploring generative AI ...
 
