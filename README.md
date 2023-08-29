@@ -14,7 +14,7 @@ Passionate Full Stack Developer | Embracing Startup Culture | Turning Ideas into
 
 Joining forces with startups, I embark on a thrilling journey to shape the future, crafting solutions that make a meaningful impact. Let's connect and together, create something extraordinary! 🤝✨
 
-Exploring generative AI ...
+Exploring generative AI...
 
 > 📫 How to reach me ?
 >
