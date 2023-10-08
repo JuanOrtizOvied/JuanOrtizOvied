@@ -66,8 +66,12 @@ Exploring generative AI ...
   Dev Stuff
 </h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanortizovied&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&count_private=true&theme=blueberry" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanortizovied&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&count_private=true&theme=blueberry" />
+</p>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=juanortizovied&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" />
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=juanortizovied&theme=cobalt&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" />
+</p>
 
 <img alt="juanortizovied's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=juanortizovied&custom_title=Contribution&hide_border=true&theme=tokyo-night" />
