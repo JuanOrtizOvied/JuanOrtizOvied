@@ -26,6 +26,7 @@ Exploring generative AI ...
 - Reactjs
 - Python 
 - Serverless
+- SAM
 - Aws Services
 
 <h2 align="center">
